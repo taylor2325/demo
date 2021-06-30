@@ -20,6 +20,20 @@
             "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
             "image": "https://ipfs.io/ipfs/QmRkBPCu6SnQ5aQ2BbKk5ZMsA5oRaRoQBHJ1HsqXhFctyi?filename=sticker-png-m4-carbine-vertical-forward-grip-ar-15-style-rifle-m16-rifle-assault-rifle-assault-rifle-assault-rifle-airsoft-machine-gun-weapon-rifle.png",
             "name": "GROZA"
-        }
+        },
+        {
+            "id": 3,
+            "description": "Guns",
+            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+            "image": "https://ipfs.io/ipfs/QmS56jW24HFj8zSW7FoWtMGCFYjJUEAddd8iVuoEy4rKf6?filename=AWP-Gun.jpeg",
+            "name": "AWP"
+        },
+        {
+            "id": 4,
+            "description": "Guns",
+            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+            "image": "https://ipfs.io/ipfs/QmaNHLnJPHPXr81ASBcb7pDByiVJAu6Jyvhh8LeBfPmb2j?filename=Flickr_-_Steve_Z_-_Cobray_M11-removebg-preview.png",
+            "name": "MAC-11"
+        },
     ]
 }
