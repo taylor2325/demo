@@ -4,21 +4,21 @@
             "id": 0,
             "description": "Guns",
             "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+            "image": "https://gateway.pinata.cloud/ipfs/QmQsD19jXf7i1RS8AejvuEV6EfGwAvpKaKZHWoDLKqcG7o",
             "name": "AK-47"
         },
         {
             "id": 1,
             "description": "Guns",
             "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+            "image": "https://gateway.pinata.cloud/ipfs/QmSoEZR5eQccfqMrkTR279jcxPsfo9pGpZxh7dc4xhxbzd",
             "name": "M4A1"
         },
         {
             "id": 2,
             "description": "Guns",
             "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+            "image": "https://ipfs.io/ipfs/QmRkBPCu6SnQ5aQ2BbKk5ZMsA5oRaRoQBHJ1HsqXhFctyi?filename=sticker-png-m4-carbine-vertical-forward-grip-ar-15-style-rifle-m16-rifle-assault-rifle-assault-rifle-assault-rifle-airsoft-machine-gun-weapon-rifle.png",
             "name": "GROZA"
         }
     ]
