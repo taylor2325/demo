@@ -34,6 +34,13 @@
             "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
             "image": "https://ipfs.io/ipfs/QmaNHLnJPHPXr81ASBcb7pDByiVJAu6Jyvhh8LeBfPmb2j?filename=Flickr_-_Steve_Z_-_Cobray_M11-removebg-preview.png",
             "name": "MAC-11"
+        },
+        {
+            "id": 5,
+            "description": "Guns",
+            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+            "image": "https://gateway.pinata.cloud/ipfs/QmdHhwUegH7xsVP4v5mC6DP6bN5pCTBpBTTbD63XxQ3Ga3",
+            "name": "M4A1"
         }
     ]
 }
