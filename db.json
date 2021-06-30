@@ -25,7 +25,7 @@
             "id": 3,
             "description": "Guns",
             "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-            "image": "https://ipfs.io/ipfs/QmS56jW24HFj8zSW7FoWtMGCFYjJUEAddd8iVuoEy4rKf6?filename=AWP-Gun.jpeg",
+            "image": "https://gateway.pinata.cloud/ipfs/QmS56jW24HFj8zSW7FoWtMGCFYjJUEAddd8iVuoEy4rKf6",
             "name": "AWP"
         },
         {
