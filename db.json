@@ -46,7 +46,7 @@
             "id": 6,
             "description": "Guns",
             "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-            "image": "https://ipfs.io/ipfs/QmbxQZ1opHySviSE8fsg71WTyB21zRGFTTV5KoWCTa5BDb?filename=PG2050202-2.jpg",
+            "image": "https://gateway.pinata.cloud/ipfs/QmbxQZ1opHySviSE8fsg71WTyB21zRGFTTV5KoWCTa5BDb",
             "name": "GLOCK-11"
         }
     ]
